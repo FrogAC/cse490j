@@ -3,7 +3,7 @@
 and keep a clean hierarchy*
 
 #### Project 1
-  * Version: Unity 2018.2.10f1 with HDRP 2.0.6
+  * Version: Unity 2018.2.10f1 with HDRP 2.0.6, Quality Setting > high
   * **Animation**:  Play mode auto play
     
 ##### Project 2
