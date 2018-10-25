@@ -9593,7 +9593,7 @@ MonoBehaviour:
   m_ComponentOwner: {fileID: 4132069619210038}
 --- !u!114 &114332227439572816
 MonoBehaviour:
-  m_ObjectHideFlags: 1
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1402282440638348}
